@@ -1,0 +1,28 @@
+HTML - hyper text mark up language 
+It is used to build static websites 
+Desctibes the structure of the webpage 
+
+
+Basic tags
+<!DOCTYPE html> will describe the document is an HTML 5 document 
+<html> element is the root element of an html page
+<head> element contains meta information about html page
+<body> element defines the visible content like headings, paragraphs, images, hyperlink, tables , lists etc
+
+
+semantic tags: Clearly describes its tag meaning to both browser and developer 
+ are <form>, <article>, <table> - clearly defines its content 
+Non - semantic tags: Does not describe its tag meanign to browser and developer 
+  are <span>, <div> - tells nothing about the content 
+
+Inline and block line elements:
+  Block elements: Block level element will start on new line, it always takes full width available
+  inline elements : Inline elements will not start on new line, it will takes how much width it needs 
+
+
+Paired and Unpaired tags:
+ paired tag: If any HTML tag has separate opening and separate closing tags is called paired tags 
+      ex: <html></html>, <body></body>
+  
+ Unpaired tags: If any HTML tag has both opening and closing tag in same tag is called unpaired tag
+      ex: <br/>, </img>
